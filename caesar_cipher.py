@@ -25,6 +25,6 @@ while True:
         print(f"\n{mode.title()}ed message: {result}")
     elif choice == "3":
         print("Goodbye!")
-        break
+        exit
     else:
         print("Invalid choice. Please try again.")

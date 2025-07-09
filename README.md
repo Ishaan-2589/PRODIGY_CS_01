@@ -22,5 +22,8 @@ Message: Hello World!
 Shift: 3
 Encrypted: Khoor Zruog!
 
+## 📸 Preview
+![Task List Preview](./preview.png)
+
 ## 📝 Note
 This program uses simple substitution logic and is ideal for learning basic cryptography concepts.
